@@ -1,7 +1,7 @@
 # In-to-the-Hall
 A project purposes
 # Sample video
-https://drive.google.com/drive/my-drive
+https://drive.google.com/drive/folders/1UHhbQehZoq16_ESRiV9GhTuLl-zwfRSi
 # Project Discription
   It’s a type of puzzle game where the player moves in complex passages to find the door to escape the glade.
 # Characters
