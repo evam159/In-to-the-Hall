@@ -1,4 +1,9 @@
 # In-to-the-Hall
+
+
+ ![](assets/images/screen-mainmenu.png)
+ 
+ 
 A project purposes
 # Sample video
 https://drive.google.com/drive/folders/1UHhbQehZoq16_ESRiV9GhTuLl-zwfRSi
@@ -53,7 +58,6 @@ Gladers is the main character in this game. They lost their memories, and thatâ€
  
  ![](assets/images/screen-howtoplay.png)
  
- ![](assets/images/screen-mainmenu.png)
  
 # Demographics
 	Age: 5 years old and up
