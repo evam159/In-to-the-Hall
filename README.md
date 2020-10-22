@@ -3,9 +3,12 @@ A project purposes
 # Sample video
 https://drive.google.com/drive/folders/1UHhbQehZoq16_ESRiV9GhTuLl-zwfRSi
 # Project Discription
-  It’s a type of puzzle game where the player moves in complex passages to find the door to escape the glade.
+It’s a type of puzzle game where the player moves in complex passages to find the door to escape the glade.
 # Characters
-  Gladers is the main character in this game. They lost their memories, and that’s the reason why they enter the maze to know why they are in the glade.
+Gladers is the main character in this game. They lost their memories, and that’s the reason why they enter the maze to know why they are in the glade.
+
+![](assets/images/ball.png)
+
 # Story
   The glade is huge and broad that ever since no one can escape. There are a lot of gladers put and stock in there and nobody knows where they came from and lost their memories. But one day, a glader arrived, and like the other gladers he has no memory of his previous life. That glader actually becomes one of their group and soon after demonstrates a unique perspective that scores him a promotion to Runner status. He runs in the maze to find a clue to escape together with the other gladers.
 # Theme and Game Play
@@ -26,6 +29,31 @@ https://drive.google.com/drive/folders/1UHhbQehZoq16_ESRiV9GhTuLl-zwfRSi
  # Audio and sounds
     Bounce Sound
  # Graphics
+ ![](assets/images/border-horizontal.png)
+ 
+ ![](assets/images/border-vertical.png)
+ 
+ ![](assets/images/button-audio.png)
+ 
+ ![](assets/images/button-pause.png)
+ 
+ ![](assets/images/button-start.png)
+ 
+ ![](assets/images/element-h.png)
+ 
+ ![](assets/images/element-w.png)
+ 
+ ![](assets/images/hole.png)
+ 
+ ![](assets/images/loading-bar.png)
+ 
+ ![](assets/images/panel.png)
+ 
+ ![](assets/images/screen-bg.png)
+ 
+ ![](assets/images/screen-howtoplay.png)
+ 
+ ![](assets/images/screen-mainmenu.png)
  
 # Demographics
 	Age: 5 years old and up
