@@ -19,7 +19,7 @@ Gladers is the main character in this game. They lost their memories, and thatâ€
 # Story
   The glade is huge and broad that ever since no one can escape. There are a lot of gladers put and stock in there and nobody knows where they came from and lost their memories. But one day, a glader arrived, and like the other gladers he has no memory of his previous life. That glader actually becomes one of their group and soon after demonstrates a unique perspective that scores him a promotion to Runner status. He runs in the maze to find a clue to escape together with the other gladers.
 # Theme and Game Play
-   It is a puzzle game where the gladers need to know the way out. 
+It is a puzzle game where the gladers need to know the way out. 
     Goals: Need to enter the portal in order to proceed in the next level.
     Users Skills: Tap on the screen/ keys (up, down, left, right), problem-solving skills (to guess where the path is).
     Items and power-ups: None
